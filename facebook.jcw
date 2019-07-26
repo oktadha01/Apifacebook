@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>facebook</label>
+		<id>21</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>facebook.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Apifacebook\Apifacebook.jcp</path>
+		</project>
+	</projects>
+</workspace>
